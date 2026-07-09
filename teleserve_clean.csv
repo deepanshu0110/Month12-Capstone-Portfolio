@@ -1,0 +1,401 @@
+customer_id,plan_type,monthly_bill_inr,tenure_months,signup_date,complaint_text,resolved,days_to_resolve,satisfaction_score
+TS1000,Postpaid,469.76,25,2024-06-06,Customer care call disconnected three times without resolving customer app login,True,6.0,2.0
+TS1001,Postpaid,376.93,1,2026-06-06,Data balance deducted incorrectly after using app for OTP delivery,True,0.0,5.0
+TS1002,Postpaid,653.68,19,2024-12-06,Internet speed far below promised Postpaid plan speed during evening hours,True,3.0,4.0
+TS1003,Prepaid,205.16,21,2024-10-06,Customer care call disconnected three times without resolving UPI payment,False,,
+TS1004,Postpaid,495.01,62,2021-05-06,Data balance deducted incorrectly after using app for OTP delivery,True,3.0,4.0
+TS1005,Postpaid,364.19,2,2026-05-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1006,Broadband,1280.65,8,2025-11-06,Recharge done but plan benefits not activated for 2 days,True,2.0,4.0
+TS1007,Postpaid,758.06,5,2026-02-06,Recharge done but plan benefits not activated for 2 days,True,1.0,5.0
+TS1008,Broadband,893.98,12,2025-07-06,Billed amount does not match my selected Broadband plan this month,True,5.0,5.0
+TS1009,Broadband,920.28,28,2024-03-06,SMS service not working since the last recharge cycle,False,,
+TS1010,Postpaid,495.8,6,2026-01-06,Requested plan downgrade last month but still billed for old plan,True,3.0,5.0
+TS1011,Prepaid,204.71,17,2025-02-06,Roaming charges applied despite being within home Panipat circle,False,,
+TS1012,Postpaid,272.09,34,2023-09-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,5.0
+TS1013,Broadband,650.93,9,2025-10-06,Internet speed far below promised Broadband plan speed during evening hours,False,,
+TS1014,Prepaid,324.43,64,2021-03-06,Customer care call disconnected three times without resolving UPI payment,False,,
+TS1015,Broadband,1046.81,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1016,Postpaid,505.44,33,2023-10-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1017,Postpaid,792.76,6,2026-01-06,Billed amount does not match my selected Postpaid plan this month,True,5.0,4.0
+TS1018,Postpaid,462.73,8,2025-11-06,Broadband router keeps restarting every few hours in Delhi NCR,True,1.0,5.0
+TS1019,Broadband,1110.04,19,2024-12-06,Internet speed far below promised Broadband plan speed during evening hours,False,,
+TS1020,Broadband,1009.66,4,2026-03-06,Internet speed far below promised Broadband plan speed during evening hours,False,,
+TS1021,Postpaid,555.96,14,2025-05-06,Data balance deducted incorrectly after using app for customer app login,True,2.0,5.0
+TS1022,Prepaid,306.49,14,2025-05-06,Internet speed far below promised Prepaid plan speed during evening hours,True,3.0,4.0
+TS1023,Postpaid,449.66,6,2026-01-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1024,Broadband,549.47,32,2023-11-06,Internet speed far below promised Broadband plan speed during evening hours,True,4.0,5.0
+TS1025,Postpaid,374.63,1,2026-06-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,5.0
+TS1026,Broadband,290.21,2,2026-05-06,Internet speed far below promised Prepaid plan speed during evening hours,True,5.0,4.0
+TS1027,Broadband,1042.07,6,2026-01-06,Broadband router keeps restarting every few hours in Delhi NCR,True,1.0,5.0
+TS1028,Postpaid,475.78,1,2026-06-06,Broadband router keeps restarting every few hours in Panipat,True,0.0,5.0
+TS1029,Broadband,947.08,38,2023-05-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,4.0
+TS1030,Postpaid,487.09,25,2024-06-06,Requested plan downgrade last month but still billed for old plan,True,3.0,4.0
+TS1031,Postpaid,645.47,9,2025-10-06,Billed amount does not match my selected Postpaid plan this month,True,0.0,5.0
+TS1032,Postpaid,625.16,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1033,Prepaid,131.82,47,2022-08-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1034,Prepaid,380.61,7,2025-12-06,Billed amount does not match my selected Prepaid plan this month,True,0.0,5.0
+TS1035,Broadband,999.58,35,2023-08-06,Data balance deducted incorrectly after using app for UPI payment,True,3.0,5.0
+TS1036,Broadband,1111.85,41,2023-02-06,Billed amount does not match my selected Broadband plan this month,True,1.0,5.0
+TS1037,Prepaid,309.77,2,2026-05-06,Billed amount does not match my selected Prepaid plan this month,True,0.0,4.0
+TS1038,Prepaid,288.8,62,2021-05-06,Broadband router keeps restarting every few hours in Delhi NCR,True,3.0,3.0
+TS1039,Prepaid,250.06,66,2021-01-06,Data balance deducted incorrectly after using app for OTP delivery,True,3.0,5.0
+TS1040,Postpaid,737.71,37,2023-06-06,Internet speed far below promised Postpaid plan speed during evening hours,True,2.0,4.0
+TS1041,Postpaid,467.82,45,2022-10-06,Broadband router keeps restarting every few hours in Sonipat,True,0.0,5.0
+TS1042,Postpaid,849.58,19,2024-12-06,Requested plan downgrade last month but still billed for old plan,True,1.0,4.0
+TS1043,Prepaid,250.48,2,2026-05-06,Network signal keeps dropping in Panipat area since last week,True,0.0,4.0
+TS1044,Prepaid,267.36,1,2026-06-06,Broadband router keeps restarting every few hours in Delhi NCR,True,0.0,5.0
+TS1045,Prepaid,223.62,19,2024-12-06,Internet speed far below promised Prepaid plan speed during evening hours,True,0.0,5.0
+TS1046,Prepaid,173.64,9,2025-10-06,Data balance deducted incorrectly after using app for video streaming,True,7.0,4.0
+TS1047,Prepaid,186.85,15,2025-04-06,Broadband router keeps restarting every few hours in Rohtak,False,,
+TS1048,Postpaid,661.49,38,2023-05-06,Recharge done but plan benefits not activated for 2 days,True,2.0,4.0
+TS1049,Postpaid,583.3,96,2018-07-06,Customer care call disconnected three times without resolving video streaming,False,,
+TS1050,Broadband,1389.51,7,2025-12-06,Billed amount does not match my selected Broadband plan this month,True,2.0,5.0
+TS1051,Broadband,926.48,12,2025-07-06,Billed amount does not match my selected Broadband plan this month,False,,
+TS1052,Postpaid,336.07,5,2026-02-06,Requested plan downgrade last month but still billed for old plan,True,0.0,4.0
+TS1053,Postpaid,576.76,9,2025-10-06,Data balance deducted incorrectly after using app for UPI payment,True,8.0,2.0
+TS1054,Postpaid,806.37,19,2024-12-06,Broadband router keeps restarting every few hours in Rohtak,True,6.0,3.0
+TS1055,Prepaid,219.09,13,2025-06-06,Broadband router keeps restarting every few hours in Sonipat,True,0.0,4.0
+TS1056,Prepaid,290.54,7,2025-12-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1057,Postpaid,731.65,1,2026-06-06,Data balance deducted incorrectly after using app for UPI payment,True,1.0,4.0
+TS1058,Postpaid,505.56,25,2024-06-06,Internet speed far below promised Postpaid plan speed during evening hours,True,1.0,4.0
+TS1059,Postpaid,498.9,26,2024-05-06,Network signal keeps dropping in Gurugram area since last week,True,2.0,4.0
+TS1060,Prepaid,259.93,13,2025-06-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1061,Prepaid,273.03,19,2024-12-06,Roaming charges applied despite being within home Delhi NCR circle,False,,
+TS1062,Postpaid,520.58,16,2025-03-06,Roaming charges applied despite being within home Sonipat circle,False,,
+TS1063,Prepaid,138.62,13,2025-06-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1064,Broadband,1072.44,30,2024-01-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1065,Prepaid,210.0,2,2026-05-06,Broadband router keeps restarting every few hours in Gurugram,True,1.0,5.0
+TS1066,Broadband,1106.0,3,2026-04-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1067,Postpaid,583.05,1,2026-06-06,Billed amount does not match my selected Postpaid plan this month,False,,
+TS1068,Prepaid,166.55,21,2024-10-06,Customer care call disconnected three times without resolving video streaming,True,0.0,5.0
+TS1069,Broadband,679.4,7,2025-12-06,Roaming charges applied despite being within home Karnal circle,False,,
+TS1070,Prepaid,225.97,25,2024-06-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,5.0
+TS1071,Prepaid,297.29,5,2026-02-06,Data balance deducted incorrectly after using app for OTP delivery,True,0.0,5.0
+TS1072,Postpaid,613.58,40,2023-03-06,Requested plan downgrade last month but still billed for old plan,True,0.0,4.0
+TS1073,Broadband,882.11,41,2023-02-06,Data balance deducted incorrectly after using app for video streaming,True,0.0,5.0
+TS1074,Postpaid,735.87,2,2026-05-06,Internet speed far below promised Postpaid plan speed during evening hours,True,6.0,3.0
+TS1075,Postpaid,693.6,1,2026-06-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1076,Broadband,766.39,70,2020-09-06,Requested plan downgrade last month but still billed for old plan,True,4.0,4.0
+TS1077,Prepaid,245.95,37,2023-06-06,Customer care call disconnected three times without resolving customer app login,True,1.0,5.0
+TS1078,Prepaid,123.97,14,2025-05-06,Roaming charges applied despite being within home Karnal circle,True,0.0,5.0
+TS1079,Prepaid,372.4,39,2023-04-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1080,Prepaid,209.84,21,2024-10-06,Internet speed far below promised Prepaid plan speed during evening hours,True,2.0,5.0
+TS1081,Prepaid,209.72,2,2026-05-06,Requested plan downgrade last month but still billed for old plan,True,2.0,5.0
+TS1082,Postpaid,753.63,43,2022-12-06,Network signal keeps dropping in Gurugram area since last week,True,8.0,2.0
+TS1083,Broadband,732.91,23,2024-08-06,Network signal keeps dropping in Delhi NCR area since last week,True,0.0,5.0
+TS1084,Postpaid,553.61,8,2025-11-06,Billed amount does not match my selected Postpaid plan this month,False,,
+TS1085,Broadband,792.72,47,2022-08-06,Billed amount does not match my selected Broadband plan this month,True,0.0,5.0
+TS1086,Postpaid,663.53,25,2024-06-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1087,Broadband,1065.22,12,2025-07-06,Billed amount does not match my selected Broadband plan this month,True,0.0,5.0
+TS1088,Broadband,1096.26,16,2025-03-06,Broadband router keeps restarting every few hours in Karnal,True,5.0,4.0
+TS1089,Broadband,947.65,15,2025-04-06,Customer care call disconnected three times without resolving OTP delivery,True,0.0,5.0
+TS1090,Postpaid,460.08,2,2026-05-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,5.0
+TS1091,Broadband,990.29,96,2018-07-06,Network signal keeps dropping in Gurugram area since last week,True,0.0,5.0
+TS1092,Postpaid,596.24,38,2023-05-06,Data balance deducted incorrectly after using app for OTP delivery,True,1.0,4.0
+TS1093,Prepaid,251.71,3,2026-04-06,Internet speed far below promised Prepaid plan speed during evening hours,True,2.0,4.0
+TS1094,Prepaid,179.1,15,2025-04-06,Network signal keeps dropping in Sonipat area since last week,False,,
+TS1095,Prepaid,168.74,19,2024-12-06,Recharge done but plan benefits not activated for 2 days,True,1.0,5.0
+TS1096,Broadband,886.44,13,2025-06-06,Network signal keeps dropping in Gurugram area since last week,True,3.0,4.0
+TS1097,Broadband,1198.51,3,2026-04-06,Data balance deducted incorrectly after using app for video streaming,True,1.0,4.0
+TS1098,Broadband,1304.18,5,2026-02-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1099,Postpaid,622.94,17,2025-02-06,SMS service not working since the last recharge cycle,True,11.0,3.0
+TS1100,Broadband,1307.66,26,2024-05-06,SMS service not working since the last recharge cycle,False,,
+TS1101,Broadband,811.93,53,2022-02-06,SMS service not working since the last recharge cycle,True,2.0,5.0
+TS1102,Postpaid,627.21,1,2026-06-06,Roaming charges applied despite being within home Gurugram circle,True,3.0,5.0
+TS1103,Postpaid,656.65,26,2024-05-06,Network signal keeps dropping in Karnal area since last week,True,0.0,4.0
+TS1104,Prepaid,343.95,6,2026-01-06,Billed amount does not match my selected Prepaid plan this month,False,,
+TS1105,Postpaid,694.21,11,2025-08-06,Broadband router keeps restarting every few hours in Panipat,True,0.0,4.0
+TS1106,Prepaid,229.62,1,2026-06-06,Network signal keeps dropping in Gurugram area since last week,True,2.0,4.0
+TS1107,Broadband,977.76,34,2023-09-06,SMS service not working since the last recharge cycle,True,5.0,4.0
+TS1108,Prepaid,472.7,1,2026-06-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1109,Broadband,1356.54,38,2023-05-06,Roaming charges applied despite being within home Karnal circle,False,,
+TS1110,Postpaid,721.04,17,2025-02-06,SMS service not working since the last recharge cycle,True,2.0,3.0
+TS1111,Broadband,1151.79,3,2026-04-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1112,Postpaid,604.07,4,2026-03-06,Billed amount does not match my selected Postpaid plan this month,False,,
+TS1113,Broadband,866.78,2,2026-05-06,Roaming charges applied despite being within home Gurugram circle,False,,
+TS1114,Prepaid,255.61,61,2021-06-06,Data balance deducted incorrectly after using app for UPI payment,True,5.0,3.0
+TS1115,Postpaid,756.12,4,2026-03-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1116,Postpaid,474.91,38,2023-05-06,Requested plan downgrade last month but still billed for old plan,True,3.0,5.0
+TS1117,Broadband,873.15,4,2026-03-06,Broadband router keeps restarting every few hours in Karnal,True,4.0,2.0
+TS1118,Postpaid,483.49,5,2026-02-06,SMS service not working since the last recharge cycle,False,,
+TS1119,Broadband,942.5,57,2021-10-06,SMS service not working since the last recharge cycle,True,5.0,5.0
+TS1120,Prepaid,223.63,7,2025-12-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1121,Prepaid,99.0,8,2025-11-06,Data balance deducted incorrectly after using app for customer app login,True,2.0,4.0
+TS1122,Prepaid,230.26,31,2023-12-06,Roaming charges applied despite being within home Delhi NCR circle,False,,
+TS1123,Prepaid,253.44,44,2022-11-06,Customer care call disconnected three times without resolving video streaming,False,,
+TS1124,Postpaid,624.66,4,2026-03-06,Recharge done but plan benefits not activated for 2 days,True,6.0,4.0
+TS1125,Prepaid,259.17,15,2025-04-06,Broadband router keeps restarting every few hours in Rohtak,True,1.0,5.0
+TS1126,Broadband,1163.11,16,2025-03-06,SMS service not working since the last recharge cycle,True,3.0,4.0
+TS1127,Broadband,1206.54,23,2024-08-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,4.0
+TS1128,Postpaid,516.9,27,2024-04-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1129,Broadband,987.8,24,2024-07-06,Roaming charges applied despite being within home Gurugram circle,True,0.0,5.0
+TS1130,Postpaid,512.14,10,2025-09-06,Network signal keeps dropping in Gurugram area since last week,False,,
+TS1131,Broadband,963.05,17,2025-02-06,Broadband router keeps restarting every few hours in Sonipat,True,0.0,5.0
+TS1132,Broadband,1056.89,7,2025-12-06,Roaming charges applied despite being within home Sonipat circle,True,0.0,4.0
+TS1133,Postpaid,560.8,15,2025-04-06,SMS service not working since the last recharge cycle,True,4.0,4.0
+TS1134,Prepaid,201.21,23,2024-08-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1135,Postpaid,699.42,17,2025-02-06,Customer care call disconnected three times without resolving customer app login,True,3.0,5.0
+TS1136,Broadband,1185.92,10,2025-09-06,Network signal keeps dropping in Karnal area since last week,True,0.0,4.0
+TS1137,Prepaid,381.96,41,2023-02-06,Customer care call disconnected three times without resolving customer app login,True,1.0,5.0
+TS1138,Postpaid,421.85,20,2024-11-06,Internet speed far below promised Postpaid plan speed during evening hours,True,1.0,5.0
+TS1139,Broadband,1132.39,10,2025-09-06,Roaming charges applied despite being within home Delhi NCR circle,False,,
+TS1140,Postpaid,792.04,56,2021-11-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1141,Prepaid,273.64,16,2025-03-06,Requested plan downgrade last month but still billed for old plan,True,1.0,5.0
+TS1142,Postpaid,559.18,9,2025-10-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,5.0
+TS1143,Postpaid,596.56,74,2020-05-06,Requested plan downgrade last month but still billed for old plan,True,0.0,4.0
+TS1144,Postpaid,700.71,1,2026-06-06,Recharge done but plan benefits not activated for 2 days,True,0.0,4.0
+TS1145,Broadband,1177.36,9,2025-10-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,5.0
+TS1146,Prepaid,269.6,25,2024-06-06,Customer care call disconnected three times without resolving OTP delivery,True,6.0,4.0
+TS1147,Broadband,1019.41,27,2024-04-06,Internet speed far below promised Broadband plan speed during evening hours,True,0.0,5.0
+TS1148,Prepaid,162.17,9,2025-10-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1149,Prepaid,216.07,41,2023-02-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1150,Broadband,1069.81,12,2025-07-06,Internet speed far below promised Broadband plan speed during evening hours,True,2.0,5.0
+TS1151,Broadband,1305.6,7,2025-12-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1152,Postpaid,635.69,7,2025-12-06,Billed amount does not match my selected Postpaid plan this month,True,4.0,4.0
+TS1153,Prepaid,357.24,20,2024-11-06,Network signal keeps dropping in Gurugram area since last week,True,0.0,5.0
+TS1154,Prepaid,339.82,38,2023-05-06,Internet speed far below promised Prepaid plan speed during evening hours,True,3.0,4.0
+TS1155,Prepaid,198.54,16,2025-03-06,SMS service not working since the last recharge cycle,True,2.0,5.0
+TS1156,Postpaid,611.19,38,2023-05-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1157,Broadband,1081.83,14,2025-05-06,Roaming charges applied despite being within home Gurugram circle,True,0.0,5.0
+TS1158,Postpaid,683.4,12,2025-07-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,5.0
+TS1159,Prepaid,268.54,40,2023-03-06,Network signal keeps dropping in Sonipat area since last week,True,0.0,4.0
+TS1160,Broadband,1271.4,8,2025-11-06,Broadband router keeps restarting every few hours in Panipat,False,,
+TS1161,Postpaid,767.6,1,2026-06-06,Data balance deducted incorrectly after using app for customer app login,False,,
+TS1162,Prepaid,152.22,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1163,Broadband,858.53,4,2026-03-06,Network signal keeps dropping in Delhi NCR area since last week,False,,
+TS1164,Prepaid,250.86,24,2024-07-06,Broadband router keeps restarting every few hours in Sonipat,True,0.0,5.0
+TS1165,Broadband,1097.86,1,2026-06-06,Data balance deducted incorrectly after using app for UPI payment,True,0.0,4.0
+TS1166,Prepaid,150.65,13,2025-06-06,Network signal keeps dropping in Sonipat area since last week,True,4.0,5.0
+TS1167,Broadband,902.82,29,2024-02-06,Roaming charges applied despite being within home Delhi NCR circle,True,2.0,4.0
+TS1168,Broadband,1180.48,21,2024-10-06,Network signal keeps dropping in Karnal area since last week,True,0.0,5.0
+TS1169,Prepaid,127.22,23,2024-08-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1170,Prepaid,152.11,7,2025-12-06,Billed amount does not match my selected Prepaid plan this month,True,2.0,3.0
+TS1171,Broadband,957.93,39,2023-04-06,Network signal keeps dropping in Rohtak area since last week,True,0.0,5.0
+TS1172,Broadband,1273.26,14,2025-05-06,SMS service not working since the last recharge cycle,True,1.0,4.0
+TS1173,Prepaid,178.12,52,2022-03-06,Billed amount does not match my selected Prepaid plan this month,True,4.0,4.0
+TS1174,Prepaid,229.32,11,2025-08-06,Internet speed far below promised Prepaid plan speed during evening hours,True,0.0,5.0
+TS1175,Postpaid,617.53,82,2019-09-06,Broadband router keeps restarting every few hours in Karnal,False,,
+TS1176,Prepaid,350.14,13,2025-06-06,Billed amount does not match my selected Prepaid plan this month,True,0.0,5.0
+TS1177,Postpaid,550.83,14,2025-05-06,Data balance deducted incorrectly after using app for video streaming,True,4.0,4.0
+TS1178,Broadband,214.8,3,2026-04-06,Broadband router keeps restarting every few hours in Delhi NCR,False,,
+TS1179,Broadband,928.72,11,2025-08-06,Internet speed far below promised Broadband plan speed during evening hours,True,0.0,5.0
+TS1180,Broadband,1144.08,25,2024-06-06,SMS service not working since the last recharge cycle,True,2.0,5.0
+TS1181,Broadband,929.56,12,2025-07-06,SMS service not working since the last recharge cycle,False,,
+TS1182,Broadband,1113.23,2,2026-05-06,Data balance deducted incorrectly after using app for customer app login,True,1.0,5.0
+TS1183,Broadband,1101.48,17,2025-02-06,Broadband router keeps restarting every few hours in Delhi NCR,True,1.0,4.0
+TS1184,Broadband,1068.18,10,2025-09-06,Roaming charges applied despite being within home Rohtak circle,False,,
+TS1185,Postpaid,399.0,14,2025-05-06,Network signal keeps dropping in Karnal area since last week,True,0.0,5.0
+TS1186,Broadband,886.63,4,2026-03-06,Billed amount does not match my selected Broadband plan this month,True,0.0,5.0
+TS1187,Broadband,1032.94,8,2025-11-06,Customer care call disconnected three times without resolving video streaming,False,,
+TS1188,Postpaid,443.36,1,2026-06-06,Network signal keeps dropping in Delhi NCR area since last week,False,,
+TS1189,Broadband,925.88,12,2025-07-06,Data balance deducted incorrectly after using app for video streaming,True,1.0,5.0
+TS1190,Prepaid,244.84,6,2026-01-06,Data balance deducted incorrectly after using app for video streaming,True,1.0,5.0
+TS1191,Broadband,1021.28,28,2024-03-06,Network signal keeps dropping in Panipat area since last week,True,2.0,3.0
+TS1192,Prepaid,158.29,34,2023-09-06,Roaming charges applied despite being within home Panipat circle,True,1.0,5.0
+TS1193,Broadband,900.72,6,2026-01-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1194,Prepaid,227.12,5,2026-02-06,Network signal keeps dropping in Delhi NCR area since last week,True,1.0,5.0
+TS1195,Postpaid,402.61,6,2026-01-06,SMS service not working since the last recharge cycle,False,,
+TS1196,Broadband,786.61,13,2025-06-06,Requested plan downgrade last month but still billed for old plan,True,1.0,5.0
+TS1197,Prepaid,354.81,20,2024-11-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1198,Postpaid,718.22,15,2025-04-06,SMS service not working since the last recharge cycle,True,3.0,5.0
+TS1199,Broadband,1122.54,13,2025-06-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1200,Postpaid,513.92,5,2026-02-06,Data balance deducted incorrectly after using app for UPI payment,True,0.0,4.0
+TS1201,Postpaid,502.75,30,2024-01-06,Network signal keeps dropping in Rohtak area since last week,True,1.0,5.0
+TS1202,Prepaid,277.5,11,2025-08-06,Customer care call disconnected three times without resolving OTP delivery,True,1.0,4.0
+TS1203,Postpaid,679.0,4,2026-03-06,Roaming charges applied despite being within home Gurugram circle,True,0.0,4.0
+TS1204,Postpaid,791.41,31,2023-12-06,Requested plan downgrade last month but still billed for old plan,True,4.0,3.0
+TS1205,Prepaid,235.06,25,2024-06-06,Billed amount does not match my selected Prepaid plan this month,False,,
+TS1206,Postpaid,635.04,12,2025-07-06,Network signal keeps dropping in Rohtak area since last week,True,0.0,5.0
+TS1207,Broadband,891.44,14,2025-05-06,Broadband router keeps restarting every few hours in Sonipat,True,2.0,4.0
+TS1208,Prepaid,249.81,13,2025-06-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1209,Prepaid,283.01,32,2023-11-06,Network signal keeps dropping in Karnal area since last week,True,0.0,4.0
+TS1210,Postpaid,578.15,14,2025-05-06,Roaming charges applied despite being within home Sonipat circle,True,3.0,4.0
+TS1211,Prepaid,200.28,23,2024-08-06,Network signal keeps dropping in Sonipat area since last week,False,,
+TS1212,Broadband,1072.66,56,2021-11-06,Customer care call disconnected three times without resolving customer app login,True,1.0,5.0
+TS1213,Postpaid,697.06,2,2026-05-06,Network signal keeps dropping in Panipat area since last week,False,,
+TS1214,Prepaid,281.86,17,2025-02-06,Data balance deducted incorrectly after using app for UPI payment,False,,
+TS1215,Postpaid,661.92,32,2023-11-06,Billed amount does not match my selected Postpaid plan this month,True,4.0,5.0
+TS1216,Broadband,1042.95,14,2025-05-06,Network signal keeps dropping in Karnal area since last week,False,,
+TS1217,Prepaid,234.45,8,2025-11-06,Data balance deducted incorrectly after using app for customer app login,False,,
+TS1218,Broadband,1135.74,19,2024-12-06,Requested plan downgrade last month but still billed for old plan,True,5.0,4.0
+TS1219,Broadband,1096.86,6,2026-01-06,Recharge done but plan benefits not activated for 2 days,True,2.0,5.0
+TS1220,Postpaid,420.25,4,2026-03-06,Network signal keeps dropping in Panipat area since last week,True,2.0,5.0
+TS1221,Broadband,1194.07,9,2025-10-06,Billed amount does not match my selected Broadband plan this month,True,2.0,5.0
+TS1222,Prepaid,190.45,1,2026-06-06,Billed amount does not match my selected Prepaid plan this month,False,,
+TS1223,Prepaid,313.02,1,2026-06-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,4.0
+TS1224,Prepaid,244.36,65,2021-02-06,Network signal keeps dropping in Karnal area since last week,False,,
+TS1225,Broadband,599.27,2,2026-05-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1226,Prepaid,249.58,7,2025-12-06,SMS service not working since the last recharge cycle,False,,
+TS1227,Postpaid,741.41,7,2025-12-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1228,Prepaid,183.17,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1229,Postpaid,496.66,12,2025-07-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1230,Broadband,1124.32,61,2021-06-06,Network signal keeps dropping in Delhi NCR area since last week,False,,
+TS1231,Broadband,981.13,21,2024-10-06,Internet speed far below promised Broadband plan speed during evening hours,False,,
+TS1232,Prepaid,257.99,33,2023-10-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1233,Broadband,1139.46,6,2026-01-06,Recharge done but plan benefits not activated for 2 days,True,2.0,4.0
+TS1234,Broadband,1051.19,30,2024-01-06,Network signal keeps dropping in Rohtak area since last week,True,2.0,5.0
+TS1235,Postpaid,647.48,22,2024-09-06,Customer care call disconnected three times without resolving OTP delivery,True,4.0,3.0
+TS1236,Postpaid,719.68,2,2026-05-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1237,Postpaid,515.81,18,2025-01-06,Customer care call disconnected three times without resolving video streaming,True,0.0,5.0
+TS1238,Postpaid,621.29,32,2023-11-06,Customer care call disconnected three times without resolving OTP delivery,True,7.0,3.0
+TS1239,Prepaid,205.15,4,2026-03-06,Recharge done but plan benefits not activated for 2 days,True,1.0,4.0
+TS1240,Broadband,1053.8,3,2026-04-06,Broadband router keeps restarting every few hours in Gurugram,True,5.0,3.0
+TS1241,Prepaid,230.63,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,True,2.0,5.0
+TS1242,Prepaid,198.29,18,2025-01-06,Roaming charges applied despite being within home Panipat circle,True,0.0,5.0
+TS1243,Broadband,743.36,57,2021-10-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1244,Prepaid,182.03,13,2025-06-06,Network signal keeps dropping in Gurugram area since last week,True,0.0,4.0
+TS1245,Postpaid,762.95,12,2025-07-06,Roaming charges applied despite being within home Gurugram circle,True,3.0,4.0
+TS1246,Prepaid,290.97,13,2025-06-06,Broadband router keeps restarting every few hours in Karnal,True,0.0,5.0
+TS1247,Postpaid,497.74,46,2022-09-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1248,Postpaid,368.25,49,2022-06-06,Billed amount does not match my selected Postpaid plan this month,True,6.0,4.0
+TS1249,Postpaid,665.34,11,2025-08-06,Roaming charges applied despite being within home Panipat circle,True,2.0,4.0
+TS1250,Broadband,1097.79,4,2026-03-06,Roaming charges applied despite being within home Sonipat circle,True,5.0,4.0
+TS1251,Postpaid,585.38,30,2024-01-06,Requested plan downgrade last month but still billed for old plan,True,2.0,4.0
+TS1252,Broadband,923.15,19,2024-12-06,Data balance deducted incorrectly after using app for OTP delivery,False,,
+TS1253,Broadband,1201.89,32,2023-11-06,SMS service not working since the last recharge cycle,True,0.0,4.0
+TS1254,Broadband,1240.97,21,2024-10-06,Customer care call disconnected three times without resolving customer app login,True,1.0,5.0
+TS1255,Broadband,1199.02,12,2025-07-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1256,Prepaid,898.75,68,2020-11-06,SMS service not working since the last recharge cycle,True,5.0,5.0
+TS1257,Postpaid,494.79,43,2022-12-06,Customer care call disconnected three times without resolving OTP delivery,True,1.0,5.0
+TS1258,Postpaid,516.67,1,2026-06-06,SMS service not working since the last recharge cycle,True,8.0,4.0
+TS1259,Broadband,1257.0,4,2026-03-06,Customer care call disconnected three times without resolving UPI payment,True,0.0,5.0
+TS1260,Prepaid,243.41,22,2024-09-06,Roaming charges applied despite being within home Gurugram circle,True,1.0,4.0
+TS1261,Postpaid,629.89,24,2024-07-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1262,Broadband,1067.45,76,2020-03-06,Roaming charges applied despite being within home Panipat circle,True,0.0,5.0
+TS1263,Broadband,1026.12,9,2025-10-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1264,Prepaid,680.89,1,2026-06-06,Roaming charges applied despite being within home Sonipat circle,True,1.0,5.0
+TS1265,Prepaid,229.41,3,2026-04-06,Roaming charges applied despite being within home Panipat circle,True,3.0,5.0
+TS1266,Postpaid,515.12,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1267,Postpaid,661.35,2,2026-05-06,Customer care call disconnected three times without resolving OTP delivery,False,,
+TS1268,Broadband,545.5,31,2023-12-06,Roaming charges applied despite being within home Karnal circle,True,3.0,3.0
+TS1269,Broadband,1176.86,30,2024-01-06,Network signal keeps dropping in Sonipat area since last week,True,14.0,1.0
+TS1270,Postpaid,643.03,5,2026-02-06,Data balance deducted incorrectly after using app for UPI payment,False,,
+TS1271,Prepaid,295.65,52,2022-03-06,Network signal keeps dropping in Delhi NCR area since last week,True,3.0,3.0
+TS1272,Prepaid,325.08,1,2026-06-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1273,Broadband,1268.28,14,2025-05-06,Network signal keeps dropping in Karnal area since last week,False,,
+TS1274,Postpaid,566.67,36,2023-07-06,Requested plan downgrade last month but still billed for old plan,True,0.0,4.0
+TS1275,Broadband,957.34,15,2025-04-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1276,Postpaid,704.07,2,2026-05-06,Network signal keeps dropping in Panipat area since last week,True,1.0,4.0
+TS1277,Postpaid,610.41,26,2024-05-06,Network signal keeps dropping in Panipat area since last week,True,0.0,5.0
+TS1278,Broadband,1199.13,1,2026-06-06,Billed amount does not match my selected Broadband plan this month,False,,
+TS1279,Broadband,893.91,51,2022-04-06,Network signal keeps dropping in Gurugram area since last week,True,3.0,4.0
+TS1280,Prepaid,234.75,3,2026-04-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1281,Postpaid,618.88,8,2025-11-06,Roaming charges applied despite being within home Gurugram circle,True,2.0,4.0
+TS1282,Prepaid,278.99,9,2025-10-06,Roaming charges applied despite being within home Rohtak circle,True,0.0,5.0
+TS1283,Prepaid,270.32,3,2026-04-06,Broadband router keeps restarting every few hours in Sonipat,True,2.0,4.0
+TS1284,Prepaid,187.23,2,2026-05-06,SMS service not working since the last recharge cycle,False,,
+TS1285,Postpaid,567.73,35,2023-08-06,Network signal keeps dropping in Karnal area since last week,True,0.0,5.0
+TS1286,Prepaid,270.98,1,2026-06-06,Broadband router keeps restarting every few hours in Panipat,True,5.0,4.0
+TS1287,Broadband,998.13,1,2026-06-06,Broadband router keeps restarting every few hours in Panipat,True,4.0,4.0
+TS1288,Postpaid,612.08,1,2026-06-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,5.0
+TS1289,Broadband,1046.14,14,2025-05-06,SMS service not working since the last recharge cycle,False,,
+TS1290,Prepaid,229.32,18,2025-01-06,Billed amount does not match my selected Prepaid plan this month,True,0.0,5.0
+TS1291,Broadband,1039.39,16,2025-03-06,Network signal keeps dropping in Gurugram area since last week,True,3.0,5.0
+TS1292,Postpaid,607.38,13,2025-06-06,Requested plan downgrade last month but still billed for old plan,True,2.0,5.0
+TS1293,Prepaid,346.58,30,2024-01-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1294,Postpaid,644.85,12,2025-07-06,Recharge done but plan benefits not activated for 2 days,True,1.0,4.0
+TS1295,Prepaid,253.29,5,2026-02-06,Network signal keeps dropping in Karnal area since last week,True,0.0,4.0
+TS1296,Broadband,1166.63,3,2026-04-06,Data balance deducted incorrectly after using app for customer app login,True,5.0,4.0
+TS1297,Prepaid,283.46,28,2024-03-06,Broadband router keeps restarting every few hours in Rohtak,True,2.0,4.0
+TS1298,Broadband,943.45,22,2024-09-06,Recharge done but plan benefits not activated for 2 days,True,0.0,4.0
+TS1299,Postpaid,924.64,34,2023-09-06,Roaming charges applied despite being within home Sonipat circle,True,0.0,5.0
+TS1300,Prepaid,232.3,13,2025-06-06,Roaming charges applied despite being within home Rohtak circle,True,0.0,5.0
+TS1301,Postpaid,765.26,6,2026-01-06,Roaming charges applied despite being within home Karnal circle,True,1.0,3.0
+TS1302,Postpaid,527.22,25,2024-06-06,Billed amount does not match my selected Postpaid plan this month,True,0.0,4.0
+TS1303,Prepaid,198.41,1,2026-06-06,Roaming charges applied despite being within home Karnal circle,True,1.0,5.0
+TS1304,Prepaid,296.35,27,2024-04-06,Data balance deducted incorrectly after using app for UPI payment,True,1.0,5.0
+TS1305,Postpaid,627.35,58,2021-09-06,Broadband router keeps restarting every few hours in Panipat,True,5.0,4.0
+TS1306,Postpaid,438.85,5,2026-02-06,Internet speed far below promised Postpaid plan speed during evening hours,True,1.0,4.0
+TS1307,Broadband,820.7,10,2025-09-06,Broadband router keeps restarting every few hours in Rohtak,True,0.0,4.0
+TS1308,Broadband,981.07,19,2024-12-06,Billed amount does not match my selected Broadband plan this month,True,0.0,5.0
+TS1309,Prepaid,258.64,1,2026-06-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1310,Broadband,1144.29,11,2025-08-06,Roaming charges applied despite being within home Karnal circle,True,3.0,3.0
+TS1311,Postpaid,485.88,12,2025-07-06,Roaming charges applied despite being within home Gurugram circle,True,1.0,5.0
+TS1312,Postpaid,640.27,48,2022-07-06,Roaming charges applied despite being within home Gurugram circle,True,4.0,3.0
+TS1313,Postpaid,499.24,29,2024-02-06,SMS service not working since the last recharge cycle,True,2.0,5.0
+TS1314,Broadband,862.39,12,2025-07-06,Broadband router keeps restarting every few hours in Rohtak,True,2.0,3.0
+TS1315,Broadband,806.57,38,2023-05-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1316,Prepaid,224.0,1,2026-06-06,Network signal keeps dropping in Karnal area since last week,True,1.0,3.0
+TS1317,Prepaid,251.44,6,2026-01-06,Roaming charges applied despite being within home Gurugram circle,True,3.0,3.0
+TS1318,Postpaid,587.83,11,2025-08-06,SMS service not working since the last recharge cycle,True,9.0,2.0
+TS1319,Broadband,877.52,4,2026-03-06,Roaming charges applied despite being within home Gurugram circle,True,7.0,4.0
+TS1320,Prepaid,203.26,52,2022-03-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1321,Postpaid,673.68,17,2025-02-06,SMS service not working since the last recharge cycle,True,2.0,5.0
+TS1322,Postpaid,523.09,5,2026-02-06,Requested plan downgrade last month but still billed for old plan,True,3.0,4.0
+TS1323,Broadband,828.5,9,2025-10-06,Roaming charges applied despite being within home Delhi NCR circle,True,0.0,5.0
+TS1324,Prepaid,256.55,20,2024-11-06,Network signal keeps dropping in Sonipat area since last week,True,1.0,5.0
+TS1325,Broadband,1003.78,4,2026-03-06,Billed amount does not match my selected Broadband plan this month,True,1.0,5.0
+TS1326,Broadband,896.05,17,2025-02-06,SMS service not working since the last recharge cycle,False,,
+TS1327,Broadband,1153.57,1,2026-06-06,Customer care call disconnected three times without resolving customer app login,True,1.0,5.0
+TS1328,Prepaid,253.15,30,2024-01-06,Billed amount does not match my selected Prepaid plan this month,True,1.0,5.0
+TS1329,Broadband,1127.77,31,2023-12-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1330,Prepaid,144.8,21,2024-10-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1331,Prepaid,241.5,24,2024-07-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1332,Broadband,801.08,3,2026-04-06,Customer care call disconnected three times without resolving video streaming,True,0.0,5.0
+TS1333,Postpaid,592.77,7,2025-12-06,Internet speed far below promised Postpaid plan speed during evening hours,True,4.0,4.0
+TS1334,Prepaid,316.75,4,2026-03-06,Roaming charges applied despite being within home Sonipat circle,True,5.0,3.0
+TS1335,Postpaid,678.83,12,2025-07-06,Roaming charges applied despite being within home Delhi NCR circle,False,,
+TS1336,Broadband,996.58,1,2026-06-06,Customer care call disconnected three times without resolving video streaming,True,0.0,5.0
+TS1337,Broadband,843.24,12,2025-07-06,Requested plan downgrade last month but still billed for old plan,False,,
+TS1338,Postpaid,580.61,50,2022-05-06,Network signal keeps dropping in Rohtak area since last week,True,2.0,4.0
+TS1339,Postpaid,557.58,80,2019-11-06,Broadband router keeps restarting every few hours in Sonipat,True,4.0,4.0
+TS1340,Prepaid,211.4,18,2025-01-06,Internet speed far below promised Prepaid plan speed during evening hours,True,1.0,5.0
+TS1341,Broadband,1039.86,1,2026-06-06,Billed amount does not match my selected Broadband plan this month,True,7.0,3.0
+TS1342,Broadband,1029.06,1,2026-06-06,Recharge done but plan benefits not activated for 2 days,True,4.0,4.0
+TS1343,Broadband,1173.55,3,2026-04-06,Customer care call disconnected three times without resolving customer app login,True,2.0,5.0
+TS1344,Postpaid,755.21,1,2026-06-06,Broadband router keeps restarting every few hours in Karnal,False,,
+TS1345,Postpaid,522.95,2,2026-05-06,Recharge done but plan benefits not activated for 2 days,True,0.0,4.0
+TS1346,Broadband,924.25,58,2021-09-06,SMS service not working since the last recharge cycle,True,3.0,4.0
+TS1347,Prepaid,242.85,23,2024-08-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1348,Prepaid,230.45,2,2026-05-06,Billed amount does not match my selected Prepaid plan this month,True,8.0,4.0
+TS1349,Postpaid,604.74,11,2025-08-06,Network signal keeps dropping in Delhi NCR area since last week,True,0.0,5.0
+TS1350,Postpaid,519.57,19,2024-12-06,Network signal keeps dropping in Panipat area since last week,False,,
+TS1351,Postpaid,656.57,24,2024-07-06,Recharge done but plan benefits not activated for 2 days,True,0.0,5.0
+TS1352,Postpaid,693.29,4,2026-03-06,Data balance deducted incorrectly after using app for customer app login,False,,
+TS1353,Prepaid,186.73,14,2025-05-06,Network signal keeps dropping in Delhi NCR area since last week,False,,
+TS1354,Prepaid,202.96,10,2025-09-06,Internet speed far below promised Prepaid plan speed during evening hours,True,3.0,4.0
+TS1355,Postpaid,635.91,1,2026-06-06,Customer care call disconnected three times without resolving UPI payment,True,7.0,3.0
+TS1356,Broadband,1228.11,10,2025-09-06,Internet speed far below promised Broadband plan speed during evening hours,True,0.0,5.0
+TS1357,Broadband,1133.08,1,2026-06-06,Network signal keeps dropping in Karnal area since last week,True,1.0,5.0
+TS1358,Postpaid,682.32,9,2025-10-06,Customer care call disconnected three times without resolving customer app login,False,,
+TS1359,Broadband,1075.15,3,2026-04-06,Recharge done but plan benefits not activated for 2 days,True,2.0,4.0
+TS1360,Broadband,1232.47,1,2026-06-06,Customer care call disconnected three times without resolving UPI payment,True,4.0,4.0
+TS1361,Broadband,1471.49,22,2024-09-06,Recharge done but plan benefits not activated for 2 days,False,,
+TS1362,Broadband,961.21,2,2026-05-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1363,Prepaid,277.88,37,2023-06-06,Roaming charges applied despite being within home Rohtak circle,True,0.0,5.0
+TS1364,Postpaid,646.16,1,2026-06-06,Data balance deducted incorrectly after using app for customer app login,True,0.0,4.0
+TS1365,Broadband,1239.27,12,2025-07-06,Network signal keeps dropping in Delhi NCR area since last week,True,2.0,5.0
+TS1366,Postpaid,535.3,63,2021-04-06,Requested plan downgrade last month but still billed for old plan,True,1.0,5.0
+TS1367,Postpaid,513.82,1,2026-06-06,Billed amount does not match my selected Postpaid plan this month,False,,
+TS1368,Broadband,931.7,4,2026-03-06,Billed amount does not match my selected Broadband plan this month,True,0.0,5.0
+TS1369,Prepaid,271.49,74,2020-05-06,Network signal keeps dropping in Rohtak area since last week,True,0.0,4.0
+TS1370,Prepaid,318.65,39,2023-04-06,Network signal keeps dropping in Gurugram area since last week,True,0.0,4.0
+TS1371,Broadband,1022.78,6,2026-01-06,Requested plan downgrade last month but still billed for old plan,True,0.0,5.0
+TS1372,Broadband,1164.07,1,2026-06-06,Internet speed far below promised Broadband plan speed during evening hours,True,1.0,5.0
+TS1373,Prepaid,224.77,2,2026-05-06,Billed amount does not match my selected Prepaid plan this month,True,0.0,5.0
+TS1374,Postpaid,822.3,37,2023-06-06,Data balance deducted incorrectly after using app for customer app login,False,,
+TS1375,Broadband,980.47,33,2023-10-06,Broadband router keeps restarting every few hours in Karnal,True,0.0,5.0
+TS1376,Postpaid,489.54,2,2026-05-06,Roaming charges applied despite being within home Karnal circle,True,0.0,5.0
+TS1377,Prepaid,154.06,1,2026-06-06,Network signal keeps dropping in Karnal area since last week,True,2.0,5.0
+TS1378,Postpaid,790.97,1,2026-06-06,SMS service not working since the last recharge cycle,False,,
+TS1379,Broadband,1019.21,29,2024-02-06,SMS service not working since the last recharge cycle,False,,
+TS1380,Prepaid,232.53,30,2024-01-06,Billed amount does not match my selected Prepaid plan this month,False,,
+TS1381,Prepaid,516.16,46,2022-09-06,Data balance deducted incorrectly after using app for UPI payment,False,,
+TS1382,Prepaid,270.35,8,2025-11-06,Internet speed far below promised Prepaid plan speed during evening hours,False,,
+TS1383,Postpaid,553.65,22,2024-09-06,Broadband router keeps restarting every few hours in Rohtak,True,2.0,4.0
+TS1384,Prepaid,111.28,3,2026-04-06,Data balance deducted incorrectly after using app for video streaming,False,,
+TS1385,Postpaid,424.08,25,2024-06-06,SMS service not working since the last recharge cycle,True,1.0,5.0
+TS1386,Postpaid,489.25,42,2023-01-06,SMS service not working since the last recharge cycle,True,0.0,5.0
+TS1387,Broadband,1287.46,3,2026-04-06,Network signal keeps dropping in Gurugram area since last week,False,,
+TS1388,Broadband,858.79,7,2025-12-06,Billed amount does not match my selected Broadband plan this month,True,4.0,4.0
+TS1389,Prepaid,240.17,30,2024-01-06,Roaming charges applied despite being within home Panipat circle,False,,
+TS1390,Postpaid,435.53,4,2026-03-06,Internet speed far below promised Postpaid plan speed during evening hours,False,,
+TS1391,Prepaid,228.0,2,2026-05-06,Roaming charges applied despite being within home Gurugram circle,False,,
+TS1392,Prepaid,198.1,16,2025-03-06,Network signal keeps dropping in Gurugram area since last week,True,0.0,5.0
+TS1393,Prepaid,288.43,10,2025-09-06,Data balance deducted incorrectly after using app for UPI payment,True,1.0,4.0
+TS1394,Postpaid,698.83,11,2025-08-06,Recharge done but plan benefits not activated for 2 days,True,4.0,3.0
+TS1395,Broadband,1244.16,19,2024-12-06,Roaming charges applied despite being within home Panipat circle,True,0.0,5.0
+TS1396,Broadband,911.34,47,2022-08-06,Broadband router keeps restarting every few hours in Karnal,True,2.0,5.0
+TS1397,Postpaid,652.26,2,2026-05-06,Roaming charges applied despite being within home Gurugram circle,True,0.0,3.0
+TS1398,Postpaid,506.6,48,2022-07-06,SMS service not working since the last recharge cycle,True,0.0,4.0
+TS1399,Prepaid,190.05,1,2026-06-06,Internet speed far below promised Prepaid plan speed during evening hours,True,0.0,5.0

@@ -1,0 +1,20 @@
+{
+  "source_rows": 409,
+  "output_rows": 400,
+  "duplicates_removed": 9,
+  "plan_type_values_before": [
+    "Broadband",
+    "Broadband ",
+    "POSTPAID",
+    "Postpaid",
+    "Prepaid",
+    "prepaid"
+  ],
+  "plan_type_values_after": [
+    "Broadband",
+    "Postpaid",
+    "Prepaid"
+  ],
+  "satisfaction_score_missing_after": 106,
+  "satisfaction_score_imputed": false
+}
