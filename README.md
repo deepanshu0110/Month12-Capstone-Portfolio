@@ -1,7 +1,7 @@
 # Month 12 — Capstone Portfolio
 **Deepanshu Garg | [@deepanshu0110](https://github.com/deepanshu0110)**
 
-> Part of a 12-month Data Science & AI self-study program (Days 1–199, Excel → Agentic AI).
+> Part of a 13-month Data Science & AI self-study program (Excel → Agentic AI). Days 1–199 form the core program; Month 13 (Days 200–216) adds agentic AI.
 > Month 12 closes the core program with an end-to-end ML/RAG capstone, then pivots into
 > building and deploying **ResumeGapAI** as the program's first standalone, publicly deployed app.
 
@@ -39,4 +39,4 @@ The notebook work here was the build phase. The finished, deployed product has i
 Python · Pandas · Scikit-learn · TF-IDF · Streamlit · joblib
 
 ## Program Context
-This repo is Month 12 of 12 in a structured data analytics → data science self-study program. See [Month6-and-7-Stats-ML-Portfolio](https://github.com/deepanshu0110/Month6-and-7-Stats-ML-Portfolio) and later months for the full arc, or [Month13-Agentic-AI-Portfolio](https://github.com/deepanshu0110/Month13-Agentic-AI-Portfolio) for what came next.
+This repo is Month 12 of 13 in a structured data analytics → data science self-study program. See [Month6-and-7-Stats-ML-Portfolio](https://github.com/deepanshu0110/Month6-and-7-Stats-ML-Portfolio) and later months for the full arc, or [Month13-Agentic-AI-Portfolio](https://github.com/deepanshu0110/Month13-Agentic-AI-Portfolio) for what came next.
